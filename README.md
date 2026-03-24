@@ -1,6 +1,6 @@
 # ODE-constrained mixture modeling workshop
 
-This workshop is develop with the help of chatGPTю
+This workshop is develop with the help of chatGPT.
 
 This repository contains Jupyter notebooks for a hands-on workshop based on the paper:
 
